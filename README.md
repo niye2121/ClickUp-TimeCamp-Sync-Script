@@ -1,6 +1,6 @@
 # ClickUp to TimeCamp Sync Script
 
-![ClickUp to TimeCamp Sync](assets/thumbnail.png)
+![ClickUp to TimeCamp Sync](assets/thumbnail.webp)
 
 This Python script allows you to sync time entries from **ClickUp** to **TimeCamp**. It fetches time entries for a specific assignee from ClickUp based on a provided date range and checks if the corresponding time entry already exists in TimeCamp. If the time entry does not exist, it creates a new entry in TimeCamp.
 
